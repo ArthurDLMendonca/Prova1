@@ -1,0 +1,29 @@
+#titulo{
+    background-color: rgb(237, 245, 244);
+    color:rgb(0, 0, 0)
+}
+#exemplos{
+    float: left;
+    margin: 40px;
+}
+#baseamentos{
+    float: left;
+    margin: 40px;
+}
+#riscos{
+    float: left;
+    margin: 40px;
+}
+#tcc{
+    float: left;
+    margin: 40px;
+}
+#conclusao{
+    float: left;
+    margin: 40px;
+}
+#davi{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
